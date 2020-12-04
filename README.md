@@ -13,6 +13,15 @@
 
 ## I would advise them to keep track of how a user is doing in terms of their credit score and business metrics. They could then use this data to see if other companies would be interested in financing them and their innovation. This would give borrowers more drive to ensure that they are successful in their business venture because it could lead to further funding and expanstion down the road. This would utilize machine learning and basic data analytics to pick out individuals who are doing the best in a particular region in terms of credit score.
 
+### References
+* tala.co
+* https://news.crunchbase.com/news/tala-a-digital-lending-startup-raises-110m-eyes-india-for-expansion/
+* https://techcrunch.com/2019/08/21/tala-series-d-india/#:~:text=Tala%20looks%20at%20a%20customer's,to%20build%20their%20credit%20profile.&text=Banks%20look%20at%20a%20user's,Tala%20is%20also%20much%20faster.
+* https://digital.hbs.edu/platform-digit/submission/tala-using-machine-learning-to-provide-access-to-credit-for-the-worlds-unbanked/#:~:text=Tala%20uses%20an%20android%20application,unique%20data%20points%20per%20user.
+* https://www.forbes.com/sites/tanyaklich/2018/07/18/tala-founder-shivani-siroya-on-her-leap-from-finance-to-fundraising-for-her-mission-driven-fintech-startup/?sh=4bae12e456f7
+* https://digital.hbs.edu/platform-rctom/submission/tala-providing-loans-for-those-without-a-financial-identity/#:~:text=By%20allowing%20the%20model%20to,subprime%20loans%20in%2020153.
+
+
 
 
 
